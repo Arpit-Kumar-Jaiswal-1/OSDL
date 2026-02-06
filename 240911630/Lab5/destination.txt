@@ -1,0 +1,2 @@
+Hello world Java.
+We will copy this content using byte streams.

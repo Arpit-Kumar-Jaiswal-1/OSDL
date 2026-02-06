@@ -1,0 +1,2 @@
+This is a text file.
+We are copying it using FileReader and FileWriter.
